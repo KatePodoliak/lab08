@@ -1,0 +1,10 @@
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\bin\Debug\Lab08.exe.config
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\bin\Debug\Lab08.exe
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\bin\Debug\Lab08.pdb
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\obj\Debug\Lab08.Form1.resources
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\obj\Debug\Lab08.Properties.Resources.resources
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\obj\Debug\Lab08.csproj.GenerateResource.cache
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\obj\Debug\Lab08.exe
+D:\KHAI\3 year\2 sem\database\lab8\Lab08\obj\Debug\Lab08.pdb
